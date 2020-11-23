@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fluentui/merge-styles": "^8.0.0-beta.0",
+    "@fluentui/react": "^8.0.0-beta.18",
+    "@fluentui/utilities": "^8.0.0-beta.0",
     "@types/node": "^14.14.9",
     "@types/react": "^17.0.0",
     "next": "10.0.2",
